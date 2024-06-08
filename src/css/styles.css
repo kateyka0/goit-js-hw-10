@@ -14,3 +14,12 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+ul {
+    padding-left: 10;
+  list-style-type: none;
+}
+a {
+   text-decoration: none;
+   color: black;
+   font-size: 24px;
+}
